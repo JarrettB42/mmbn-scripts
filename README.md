@@ -1,32 +1,32 @@
 # mmbn-scripts
 Assorted scripts for routing and running the Mega Man Battle Network game series.
 
-# HUD
+## HUD
 TODO
 
-# Data (Face)
-## RNG
+## Data (Face)
+### RNG
 TODO
-## Encounters
-TODO
-
-# Slot Routing
-## MMBN 1
-TODO
-## MMBN 2
-TODO
-## MMBN 3
+### Encounters
 TODO
 
-# Twich Chat Integration
-## Slotin! (Miniboomer)
+## Slot Routing
+### MMBN 1
 TODO
-## Mod Cards
+### MMBN 2
+TODO
+### MMBN 3
 TODO
 
-# BCC Experiments
+## Twich Chat Integration
+### Slotin! (Miniboomer)
+TODO
+### Mod Cards
 TODO
 
-# Randomizer
+## BCC Experiments
+TODO
+
+## Randomizer
 Wrong repository, huh!
 

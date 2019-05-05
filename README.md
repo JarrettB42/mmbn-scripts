@@ -31,5 +31,5 @@ TODO
 Wrong repository, huh!
 
 ## Speedrun Notes
-https://docs.google.com/spreadsheets/d/e/2PACX-1vQJZQOpNiPiEGIskzBtmZwVSQwYbuB_lRwM_BfEEkZtj-M9SIzsxzBoF2gyKCqGq9avC2PJyB034J6X/pubhtml
+[Spreadsheet of many links](https://docs.google.com/spreadsheets/d/e/2PACX-1vQJZQOpNiPiEGIskzBtmZwVSQwYbuB_lRwM_BfEEkZtj-M9SIzsxzBoF2gyKCqGq9avC2PJyB034J6X/pubhtml)
 

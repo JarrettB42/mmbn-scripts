@@ -5,6 +5,9 @@
 -- Select: Toggle HUD Display
 
 while true do
+	vba.message(vba.framecount());
 	vba.frameadvance();
 end
+
+-- VBA LUA API https://code.google.com/archive/p/vba-rerecording/wikis/LuaScriptingFunctions.wiki
 
